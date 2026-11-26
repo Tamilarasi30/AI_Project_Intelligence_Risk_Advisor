@@ -33,14 +33,13 @@ AI_Project_Intelligence_Risk_Advisor/
 ├── app.py                 # Application entry point
 ├── engine.py              # Core orchestration and analysis functions
 ├── ingestion.py           # Document ingestion and text extraction
-├── modules/                #RAG / knowledge-base functionality
+├── modules/                # modules  functionality
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
 ├── LICENSE                 # MIT license
 ├── .env.example            # Example environment configuration (if needed)
-├── .gitignore              # Files excluded from Git
-├── data/                   # Local data; do not commit private or generated data
-└── tests/                  # Tests (if present)
+├── .gitignore              # Files excluded from Git                  
+└── tests/                  # Tests 
 ```
 
 This is a reference layout. Update it to match the files and folders actually committed to the repository.
