@@ -17,14 +17,12 @@ The platform uses a Retrieval-Augmented Generation (RAG) workflow to make projec
 - **Report generation:** Generate Markdown and Word (DOCX) outputs where supported by the application.
 - **Knowledge updates:** Add new project documents to the knowledge base without unnecessarily replacing previously ingested information, if implemented in the current version.
 
-> Features listed above describe the project goals/capabilities. Availability depends on the code in the current checkout; some features may still be under development.
-
 ## Technology
 
 - Python
 - Retrieval-Augmented Generation (RAG)
 - Document processing (including `python-docx` for Word documents)
-- AI/LLM integration (configure according to the provider used in your code)
+- AI integration (configure according to the provider used in your code)
 
 Check `requirements.txt` for the project's actual Python dependencies.
 
