@@ -1,0 +1,209 @@
+{
+ "proposal_gold.txt": [
+  {
+   "s": "The project goal is to build a mobile app for campus events.",
+   "risk": null,
+   "goal": true,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "Deliverable: a push notification module for all students.",
+   "risk": null,
+   "goal": true,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "The admin dashboard feature will let organisers manage events.",
+   "risk": null,
+   "goal": true,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "Milestone 1 is design sign-off in week 2.",
+   "risk": null,
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "The team meets every Monday to review progress.",
+   "risk": null,
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "Priya is responsible for the backend services.",
+   "risk": null,
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "The payment scope is still unclear and may change the budget.",
+   "risk": "Medium",
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "The vendor approval is still pending and the integration is delayed by two weeks.",
+   "risk": "High",
+   "goal": false,
+   "blocker": true,
+   "action": false
+  },
+  {
+   "s": "A critical security vulnerability was found in the login module and it is not fixed.",
+   "risk": "High",
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "One minor cosmetic bug was reported on the settings page.",
+   "risk": "Low",
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "The earlier crash on the signup screen has been fixed and verified.",
+   "risk": null,
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "The team is currently over budget on cloud hosting and costs may rise further.",
+   "risk": "Medium",
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "Rahul is on leave next week, which may slow testing.",
+   "risk": "Low",
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "We might possibly need a third-party maps service later.",
+   "risk": "Low",
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "Documentation for the API is missing.",
+   "risk": "Medium",
+   "goal": false,
+   "blocker": false,
+   "action": false
+  }
+ ],
+ "notes_gold.txt": [
+  {
+   "s": "Decision pending: choose between Firebase and OneSignal for notifications.",
+   "risk": null,
+   "goal": false,
+   "blocker": true,
+   "action": false
+  },
+  {
+   "s": "The deployment is blocked until the security team grants access.",
+   "risk": "High",
+   "goal": false,
+   "blocker": true,
+   "action": false
+  },
+  {
+   "s": "Action: Priya to review the API schema by 2026-12-01.",
+   "risk": null,
+   "goal": false,
+   "blocker": false,
+   "action": true
+  },
+  {
+   "s": "Rahul will fix the login bug by 2026-12-04.",
+   "risk": "Medium",
+   "goal": false,
+   "blocker": false,
+   "action": true
+  },
+  {
+   "s": "Meena to prepare the demo script before the review.",
+   "risk": null,
+   "goal": false,
+   "blocker": false,
+   "action": true
+  },
+  {
+   "s": "We discussed the sprint goals and agreed on priorities.",
+   "risk": null,
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "The unresolved question of data retention is still open.",
+   "risk": null,
+   "goal": false,
+   "blocker": true,
+   "action": false
+  },
+  {
+   "s": "Everything is on schedule and the team is happy.",
+   "risk": null,
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "The release is delayed again and the demo deadline will be missed.",
+   "risk": "High",
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "The client demo is next Friday.",
+   "risk": null,
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "Design review is complete and approved by the client.",
+   "risk": null,
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "There is a risk that the database migration could fail in production.",
+   "risk": "Medium",
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "The server is down and users cannot log in, which is a critical failure.",
+   "risk": "High",
+   "goal": false,
+   "blocker": false,
+   "action": false
+  },
+  {
+   "s": "Waiting on the vendor to confirm pricing.",
+   "risk": "Medium",
+   "goal": false,
+   "blocker": true,
+   "action": false
+  }
+ ]
+}
